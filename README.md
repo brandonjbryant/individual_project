@@ -77,5 +77,5 @@ chlorides | The amount of salt in the wine | float
 free sulfur dioxide | The free form of SO2 exists in equilibrium between molecular SO2 (as a dissolved gas) and bisulfite ion | float
 density | The density of water is close to that of water depending on the percent alcohol and sugar content  | float
 pH | Describes how acidic or basic a wine is on a scale from 0 (very acidic) to 14 (very basic) | float
-sulphates | A wine additive which can contribute to sulfur dioxide gas (S02) levels | int
+sulphates | A wine additive which can contribute to sulfur dioxide gas (S02) levels | float
 alcohol | The percent alcohol content of the wine| float
