@@ -57,7 +57,7 @@
     7. seaborn
 * Steps to recreate
     1. Clone this repository
-    3. Open `individual_project_final_draft.ipynb` and run the cells
+    3. Open `red_wine_classification.ipynb` and run the cells
 
 
 ## Data Dictionary 
