@@ -1,7 +1,5 @@
-# This repository is designated to hold my individual project
-
 #Project Goals
-- This project is intended to help  classify the quality of red wine using various features. I will try to use various classification models to find best accuracy score.
+- This project aims to classify the quality of red wine using various parameters or features. This will be a approached as classification problem and will try to use various classification models to find the best accuracy score.
 
 #Planning 
 - Trello Board Link:
@@ -69,5 +67,5 @@ alcohol | The percent alcohol content of the wine| float
     7. seaborn
 * Steps to recreate
     1. Clone this repository
-    3. Open `individual_project_final.ipynb` and run the cells
+    3. Open `individual_project_final_draft.ipynb` and run the cells
 
